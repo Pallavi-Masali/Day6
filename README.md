@@ -1,5 +1,5 @@
 # Day6
-!.Title: Password Strength Evaluation
+1.Title: Password Strength Evaluation
 2.Objective: To understand strong password characteristics and evaluate their effectiveness.
 3.Tool Used: Passwordmeter.com, Security.org Password Checker
 
@@ -15,7 +15,7 @@ Findings:
 3) A strong password should resist brute-force and dictionary attacks.
 
 Research — Common Password Attacks:
-  Attack                                                   Type	Description
+                                                   
 1.Brute Force Attack	                    Tries every possible combination — longer passwords take much longer to crack.
 2.Dictionary Attack                     	Uses a list of common words — simple or common passwords are easily guessed.
 3.Phishing Attack	                        Tricks users into revealing passwords.
