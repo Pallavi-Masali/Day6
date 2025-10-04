@@ -16,10 +16,10 @@ Findings:
 
 Research — Common Password Attacks:
                                                    
-1.Brute Force Attack	                    Tries every possible combination — longer passwords take much longer to crack.
-2.Dictionary Attack                     	Uses a list of common words — simple or common passwords are easily guessed.
-3.Phishing Attack	                        Tricks users into revealing passwords.
-4.Credential Stuffing                    	Uses stolen passwords from other sites — why you should never reuse passwords.  
+1.Brute Force Attack: Tries every possible combination — longer passwords take much longer to crack.
+2.Dictionary Attack:  Uses a list of common words — simple or common passwords are easily guessed.
+3.Phishing Attack: Tricks users into revealing passwords.
+4.Credential Stuffing: Uses stolen passwords from other sites — why you should never reuse passwords.  
 
 Best Practices Learned:
 🔹 Minimum 12 characters
